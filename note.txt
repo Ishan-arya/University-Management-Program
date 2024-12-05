@@ -1,0 +1,2 @@
+this is folder contains university management program which is made by only using java.
+this program belongs to Ishan Arya, Abhishek Kumar Pandey and Naveen Kumar from CSE-R.
